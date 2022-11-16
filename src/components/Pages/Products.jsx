@@ -13,7 +13,7 @@ const Products = () => {
     setLoading(true);
     setTimeout(() => {
       setLoading(false);
-    }, 800);
+    }, 500);
     axios.get("https://fakestoreapi.com/products").then((result) => {
       setProducts(result.data);
     });

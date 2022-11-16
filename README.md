@@ -4,6 +4,8 @@ Este proyecto fue realizado con React - Realiza el consumo de una API de Tienda 
 
 https://fakestoreapi.com/
 
+Este proyecto puede verlo en:  [https://kalg12.github.io/React-Consumo-Api-FakeStore](https://kalg12.github.io/React-Consumo-Api-FakeStore) para verlo en tu navegador.
+
 ## Available Scripts
 
 En este proyecto puedes ejecutar

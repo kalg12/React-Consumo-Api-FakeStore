@@ -5,6 +5,18 @@
   justify-content: space-between;
   height: 100%;
   margin: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #f0f0f0;
+  border-radius: 5px;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+
+.productInfo h3{
+  text-align: center;
 }
 
 .productInfo img {
@@ -30,4 +42,18 @@
   font-weight: 600;
   cursor: pointer;
   text-decoration: none;
+}
+
+
+@media (max-width: 768px) {
+  margin: 0;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* agregamos un media query */
+@media (max-width: 576px) {
+  margin: 0;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }

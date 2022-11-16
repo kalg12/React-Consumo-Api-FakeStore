@@ -6,7 +6,7 @@ const ProductCard = ({title, price, image, id}) => {
   return (
     <>
         <div className="productInfo">
-            <h3 href="#">{title}</h3>
+            <h3>{title}</h3>
             <img src={image} alt={title} />
             <p className="productPrice">Precio:${price} MXN</p>
             <Link to={`/product/${id}`}>

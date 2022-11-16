@@ -13,8 +13,8 @@ function App() {
   return (
     <>
       <h1>Fake Store Api</h1>
-      {products && products.map((product, id) =>
-      <ProductCard key={id} title={product.title} price={product.price} />)}
+      {products && products.map((product) =>
+      <ProductCard key={product.id} title={product.title} price={product.price} image={product.image} />)}
     </>
   );
 }

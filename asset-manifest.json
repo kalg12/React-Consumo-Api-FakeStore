@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Consumo-Api-FakeStore/static/css/main.10f71f2c.css",
+    "main.js": "/React-Consumo-Api-FakeStore/static/js/main.0391cf1e.js",
+    "index.html": "/React-Consumo-Api-FakeStore/index.html",
+    "main.10f71f2c.css.map": "/React-Consumo-Api-FakeStore/static/css/main.10f71f2c.css.map",
+    "main.0391cf1e.js.map": "/React-Consumo-Api-FakeStore/static/js/main.0391cf1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10f71f2c.css",
+    "static/js/main.0391cf1e.js"
+  ]
+}

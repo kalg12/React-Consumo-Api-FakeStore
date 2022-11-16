@@ -1,4 +1,24 @@
-h1{
-    margin-top: 20px;
-    text-align: center;
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+h1 {
+  margin-top: 20px;
+  text-align: center;
+}
+
+svg {
+  position: absolute;
+  top: 45%;
+  left: 47%;
+}
+
+@media (max-width: 768px) {
+  svg {
+    position: absolute;
+    top: 45%;
+    left: 40%;
+  }
 }
